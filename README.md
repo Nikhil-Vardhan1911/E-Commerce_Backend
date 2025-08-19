@@ -12,7 +12,7 @@ A robust and scalable backend for an E-Commerce platform built using **Java**, *
 - 🧪 Unit testing using JUnit and Mockito
 - 🌐 Integration testing using Spring Boot Test
 - 🐳 Dockerized for containerized deployment
-- 📑 Swagger/OpenAPI documentation for easy testing and understanding
+- 📑 Swagger/OpenAPI documentation for easy testing and understanding.
 
 ---
 
